@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">
+  Hi, Nice to meet you.
+</h1>
+<h2 align="center">I am Full Stack Developer.</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="450px" width="350px" align="right"> <br>
+</p>
 
-<!--
-**manager428/manager428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center">I am Full Stack Web and Blockchain developer at Several companies and have been developing easy-to-use, user-friendly Websites, and now seek a new challenge. My experience and skills in JavaScript, Typescript, React.js, React Native, Next.js, Vue.js, Angular, PHP, Laravel, CI, WordPress, Python, Django, Web Scraping(Selenium && Beautiful Soup), Blockchain, Solidity, Solana, Web3.js, HTML, CSS, SCSS, Tailwind CSS, Styled Component, Material UI, Ant Design, XD, Figma, Node.js, PHP, Python, MySQL, MongoDB, PostgreSQL or something else makes me perfect for this role. Also, I am familiar with DevOps like git, docker. I’ve worked in large development teams that have sharpened my technical skills, improved my communication, and made me understand what it takes to meet tight deadlines.</h4>
 
-Here are some ideas to get you started:
+#### ![](https://img.shields.io/badge/Django-blue) ![](https://img.shields.io/badge/Python-blue) ![](https://img.shields.io/badge/Selenium-blue) ![](https://img.shields.io/badge/BeautifulSoup-blue) ![](https://img.shields.io/badge/Pandas-blue) ![](https://img.shields.io/badge/Numpy-blue) ![](https://img.shields.io/badge/Flask-blue) ![](https://img.shields.io/badge/Vue-blue) ![](https://img.shields.io/badge/Nuxt-blue) ![](https://img.shields.io/badge/React-blue) ![](https://img.shields.io/badge/Typescript-blue) ![](https://img.shields.io/badge/Next-blue) ![](https://img.shields.io/badge/Node-blue) ![](https://img.shields.io/badge/Express-blue) ![](https://img.shields.io/badge/Database-blue) ![](https://img.shields.io/badge/Tailwind-blue) ![](https://img.shields.io/badge/AWS-blue) ![](https://img.shields.io/badge/Azure-blue) ![](https://img.shields.io/badge/Web3.js-blue) ![](https://img.shields.io/badge/Ethers.js-blue) ![](https://img.shields.io/badge/Blockchain-blue) ![](https://img.shields.io/badge/Ethereum-blue) ![](https://img.shields.io/badge/Solidity-blue) ![](https://img.shields.io/badge/Solana-blue) ![](https://img.shields.io/badge/Tezos-blue) ![](https://img.shields.io/badge/Angular-blue) ![](https://img.shields.io/badge/Web3-blue) ![](https://img.shields.io/badge/Smart%Contract-blue) ![](https://img.shields.io/badge/Golang-blue) ![](https://img.shields.io/badge/Rust-blue) ![](https://img.shields.io/badge/PostgreSQL-blue) ![](https://img.shields.io/badge/AWS-blue) ![](https://img.shields.io/badge/PHP-blue) ![](https://img.shields.io/badge/Laravel-blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
