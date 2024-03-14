@@ -1,4 +1,4 @@
-<div background="assets/main_bg.png" width="100%" height="100%" align="center">
+<div background=url("assets/main_bg.png") width="100%" height="100%" align="center">
 <h1 align="center">
   Hello World! I'm Taras, a Senior JavaScript Developer!
 </h1>
