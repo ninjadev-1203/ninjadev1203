@@ -1,7 +1,7 @@
 <h1 align="center">
-  Hi, Nice to meet you.
+  Hello World! I'm Taras, a Senior JavaScript Developer!
 </h1>
-<h2 align="center">I am a Senior JavaScript Developer.</h2>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="450px" width="350px" align="right"> <br>
 </p>
