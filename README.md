@@ -1,8 +1,7 @@
-<div background=url("assets/main_bg.png") width="100%" height="100%" align="center">
+<img src="assets/main_bg.png" width="100%" height="100%" align="center">
 <h1 align="center">
   Hello World! I'm Taras, a Senior JavaScript Developer!
 </h1>
-</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="450px" width="350px" align="right"> <br>
