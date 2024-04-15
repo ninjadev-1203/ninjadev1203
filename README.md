@@ -1,6 +1,6 @@
 <img src="assets/main_bg.png" width="100%" height="100%" align="center">
 <h1 align="center">
-  Hello World! I'm Taras, a Senior JavaScript Developer!
+  Hello World! I'm a Senior JavaScript Developer!
 </h1>
 
 <p align="center">
